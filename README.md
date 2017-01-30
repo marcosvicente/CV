@@ -26,5 +26,6 @@ Trabalho em equipe;
 - Gestão Empresarial – Connect Brazil – Outubro/2014
 - Inglês-Básico – Wizard – Junho/2014 (Cursando)
 
-
+# Experiência 
+- estagiário - Mobitap - outubro/2016
 
